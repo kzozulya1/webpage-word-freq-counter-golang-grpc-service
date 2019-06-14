@@ -1,0 +1,46 @@
+[
+    {
+    "page_url": "https://www.nature.com/",
+    "page_title": "Global Nature",
+    "words":[
+        {"value":"wild","count":213},
+        {"value":"bear","count":10},
+        {"value":"duck","count":32}
+        ]
+    },
+    {
+        "page_url": "https://en.wikipedia.org/wiki/Politics",
+        "page_title": "Politics",
+        "words":[
+            {"value":"promoting","count":4},
+            {"value":"society","count":101},
+            {"value":"century","count":22}
+        ]
+    },
+    {
+        "page_url": "https://mechanics.com/",
+        "page_title": "Robots",
+        "words":[
+            {"value":"heart","count":213},
+            {"value":"breaker","count":22}
+            ]
+    },
+    {
+        "page_url": "https://www.health.com/",
+        "page_title": "Men Health",
+        "words":[
+            {"value":"heart","count":12213},
+            {"value":"arm","count":110},
+            {"value":"velocity","count":342}
+            ]
+    },
+    {
+        "page_url": "https://www.pharma.com/",
+        "page_title": "Medical Stuff",
+        "words":[
+            {"value":"wires","count":21},
+            {"value":"common","count":132}
+            ]
+    }
+
+]
